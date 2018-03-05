@@ -1,6 +1,6 @@
 {
     "sprayer_on": 500,
-    "sprayer_off": 600000,
+    "sprayer_off": 1200000,
     "light_start_at": "6:00",
     "light_end_at": "20:00"
 }
